@@ -1,4 +1,4 @@
-## Instructions for students:
+## Instructions:
 
 ### Create a Tic-Tac-Toe game
 
@@ -18,9 +18,3 @@ You should have 2 players, **player X** starts the game and then **player O** co
 -   Add animations to your game.
 -   Add sound to your game.
 
-### Rules
-
--   This is an individual assignment.
--   Deadline: 3 Hrs.
--   Use **Git properly**
--   Feel free to document your code with comments.
